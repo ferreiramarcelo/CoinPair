@@ -2,7 +2,7 @@
   "name": "walletserv",
   "version": "0.0.1",
   "dependencies": {
-    "express": "latest",
+    "express": "5.0.0",
     "util": "latest",
     "bitcoin": "latest",
     "mkdirp": "latest",
